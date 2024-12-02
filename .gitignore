@@ -1,1 +1,4 @@
 */.ipynb_checkpoints
+.env
+*/data.txt
+*/__pycache__
